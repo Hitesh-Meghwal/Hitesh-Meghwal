@@ -1,4 +1,4 @@
-[![MasterHead](https://2.bp.blogspot.com/-HPvsFc4GN5c/Xl6vbG1u5jI/AAAAAAAAOuo/LBRvLnDFqa4tESl64weBBCF568CTVJTAACLcBGAsYHQ/s1600/Podcast_Android_Hero_4209x1253_25%2525.gif)]
+![MasterHead](https://2.bp.blogspot.com/-HPvsFc4GN5c/Xl6vbG1u5jI/AAAAAAAAOuo/LBRvLnDFqa4tESl64weBBCF568CTVJTAACLcBGAsYHQ/s1600/Podcast_Android_Hero_4209x1253_25%2525.gif)
 <h1 align="center">Hi 👋, I'm Hitesh Meghwal</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
