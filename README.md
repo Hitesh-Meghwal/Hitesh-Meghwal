@@ -23,7 +23,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitesh-meghwal&show_icons=true&locale=en&layout=compact" alt="hitesh-meghwal" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hitesh-meghwal&show_icons=true&locale=en" alt="hitesh-meghwal" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitesh-meghwal&" alt="hitesh-meghwal" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hitesh-meghwal&show_icons=true&locale=en" alt="hitesh-meghwal" /><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitesh-meghwal&" alt="hitesh-meghwal" /></p>
 
 
 
