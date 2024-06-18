@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hiteshbaniya45@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nowlz8hBOsVl8L18SSCIpwtglSJM-6w4/view?usp=share_link](https://drive.google.com/file/d/1nowlz8hBOsVl8L18SSCIpwtglSJM-6w4/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1nowlz8hBOsVl8L18SSCIpwtglSJM-6w4/view?usp=share_link](https://drive.google.com/file/d/1ymZ2sqFGrir1CitqoQSWFfMpv_c9NNG4/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm Noob 😗**
 
