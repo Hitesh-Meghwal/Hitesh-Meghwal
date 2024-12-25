@@ -6,9 +6,9 @@
 
 - 💬 Ask me about **Android, Kotlin**
 
-- 📫 How to reach me **hiteshbaniya45@gmail.com**
+- 📫 How to reach me **hiteshmeghwal375@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nowlz8hBOsVl8L18SSCIpwtglSJM-6w4/view?usp=share_link](https://drive.google.com/file/d/1ymZ2sqFGrir1CitqoQSWFfMpv_c9NNG4/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1nowlz8hBOsVl8L18SSCIpwtglSJM-6w4/view?usp=share_link](https://drive.google.com/file/d/1ymZ2sqFGrir1CitqoQSWFfMpv_c9NNG4/view?usp=sharing)](https://drive.google.com/file/d/1AyaQhN9ne7ROpbIKBfS4C0eqx5Zs8BSC/view?usp=sharing).
 
 - ⚡ Fun fact **I think I'm Noob 😗**
 
