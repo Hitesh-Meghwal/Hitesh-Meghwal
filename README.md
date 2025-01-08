@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **hiteshmeghwal375@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AyaQhN9ne7ROpbIKBfS4C0eqx5Zs8BSC/view?usp=sharing]
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1AyaQhN9ne7ROpbIKBfS4C0eqx5Zs8BSC/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm Noob 😗**
 
