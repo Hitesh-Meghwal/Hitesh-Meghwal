@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/1v4RhCIPdYvaAGox_RdOaJ-xhJjqncwmS/view?usp=sharing)
+![MasterHead](https://uglzq6hxltguy7os.public.blob.vercel-storage.com/Hitesh%20Meghwal.png)
 <h1 align="center">Hi 👋, I'm Hitesh Meghwal</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
