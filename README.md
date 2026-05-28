@@ -22,10 +22,6 @@ Building scalable mobile experiences with Flutter & clean UI design.
   <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/hitesh-meghwal">
-  <img src="https://img.shields.io/github/followers/hitesh-meghwal?style=for-the-badge&color=000000&labelColor=000000" />
-</a>
-
 </div>
 
 ---
